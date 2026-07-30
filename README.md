@@ -35,3 +35,4 @@ npx serve .
 Push this folder to GitHub and enable **GitHub Pages**, or drag-and-drop it
 into **Netlify** or **Cloudflare Pages** — all free static hosts, no build step
 needed.
+# Sumitra-Software-Automation
